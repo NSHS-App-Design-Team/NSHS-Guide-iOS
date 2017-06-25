@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>JTCalendar.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Pods-NSHS Guide.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>Pods-NSHS GuideTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>Pods-Next Block.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>39B5CF86C5D5526023BFA614CD6D37DC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6408270F426F17B57A9347390023998F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6DF0A689E2222A7610AA53005219AD1A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C37E3CEF8A6182A2D4A76C5B77F72AA3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

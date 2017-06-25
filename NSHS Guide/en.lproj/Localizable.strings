@@ -1,0 +1,64 @@
+/* 
+  Localizable.strings
+  NSHS Guide
+
+  Created by Yung Chang Chu on 2015/2/1.
+  Copyright (c) 2015年 NSHS App Design Team. All rights reserved.
+*/
+
+//teachers text
+"cancelledClass" = "Cancelled Class";
+"freeBlock" = "Free Block";
+"noSchool" = "No school";
+
+//notification
+"notificationAbsenceListUpdate" = "Absence list updated";
+"notificationBlocksCancelledZero" = "No classes cancelled";
+"notificationBlocksCancelledMany" = " block(s) cancelled";
+"notificationAnnouncement" = "Announcement";
+"notificationTeacherRequestApproved" = "Request approved";
+"notificationTeacherRequestDenied" = "Request denied";
+"notificationTeacherRequestName" = "Teacher: ";
+
+//general alerts
+"alertErrorTitle" = "Error";
+"alertInfoTitle" = "Info";
+"alertNoInternet" = "Unable to connect to the internet";
+
+//empty states (DO NOT CHANGE RESOURCE NAME without changing UITableViewEmptyState in Helpers)
+"empty_state_no_teacher_added" = "You have no teachers saved";
+"empty_state_no_absent_teacher" = "No absent teachers found.\nSwipe down to update";
+"empty_state_no_school" = "No school!";
+
+//add teacher VC
+"alertTeacherNonexistent" = " is not a teacher at NSHS";
+"alertNoBlockNumSelected" = "No block number was selected";
+"alertNoTeacher" = "Please enter a teacher's name";
+"alertNoTeachersList" = "No teachers list saved";
+"alertMessageNoTeachersList" = "Turn on the internet and press the refresh button";
+
+//absent teachers VC
+"sectionHeaderAnnouncements" = "Announcements";
+"sectionHeaderYourTeachers" = "Your Teachers";
+"sectionHeaderOtherTeachers" = "Other Teachers";
+
+//your teachers VC
+"1Lunch" = "1st Lunch";
+"2Lunch" = "2nd Lunch";
+"3Lunch" = "3rd Lunch";
+"roomNum" = "Room ";
+
+//settings VC (default landing pages names)
+"absentTeachers" = "Absent Teachers";
+"blocks" = "Blocks";
+
+//help & feedback VC
+"alertNoName" = "Please enter your name";
+"alertNoFeedback" = "Please enter some feedback";
+"alertDeveloperModeOn" = "Ho ho ho, you turned on developer mode!";
+"alertFeedbackSent" = "Feedback sent";
+
+//request teacher VC
+"alertTeacherRequestSent" = "Teacher request sent";
+"alertNoFirstName" = "Please enter the teacher's first name";
+"alertNoLastName" = "Please enter the teacher's last name";
